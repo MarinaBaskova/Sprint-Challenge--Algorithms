@@ -127,7 +127,7 @@ class SortingRobot:
                 self.move_right()
                 self.swap_item()
                 self.move_left()  
-
+   
 
 if __name__ == "__main__":
     # Test our your implementation from the command line
@@ -139,3 +139,4 @@ if __name__ == "__main__":
 
     robot.sort()
     print(robot._list)
+    # print(self._time)
