@@ -1,1 +1,2 @@
 Add your answers to the Algorithms exercises here.
+a) Inthe example a, we have a while loop. If you count how many times loop run , it runs the n number of times. The loop will run as long as a is less then n to the power of 3. So the loop will run untill it meet (n^3). Inside of a loop a will be incremented by n^2. So n^3 / n ^2 = (n), and we can say that the cycle will run n times. The time complexity is O(n). And space complexity should be O(1), since we only allocating memory to a varable a.
